@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0326/b/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 瑜伽師地論戒品纂釋
+  edition:
+    short: b
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B08/B08n0027.xml
+    old_id: B08n0027
+hash: sha256:5da0218e380eb1f76fd5a2afcb4837da66071da4284d4cbcbdd58b5245b25394

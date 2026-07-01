@@ -1,0 +1,152 @@
+canonical_identifier: bkk:krp/KR6v0326/v1
+canonical_location: https://kanripo.org/bkk/KR6v0326/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 瑜伽師地論戒品纂釋
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B08/B08n0027.xml
+    old_id: B08n0027
+  edition:
+    short: bkk
+editions:
+- short: 補編
+  label: 補編
+  source_xml_id: wit.orig
+- short: B
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0326_000.yaml, hash: 'sha256:5da0218e380eb1f76fd5a2afcb4837da66071da4284d4cbcbdd58b5245b25394'}
+  - {seq: 2, filename: KR6v0326_002.yaml, hash: 'sha256:a66f38c42fe8996aa260cd2c88da1068bda03b117cccfdc47d484fb4c9ca0f9b'}
+  - {seq: 3, filename: KR6v0326_003.yaml, hash: 'sha256:981653576a04927b139ca5a93cb24362ed18dd3f41ffc210042bc9544b70ba15'}
+  - {seq: 2, filename: KR6v0326_002.yaml, hash: 'sha256:a66f38c42fe8996aa260cd2c88da1068bda03b117cccfdc47d484fb4c9ca0f9b'}
+  markers:
+  - {seq: 2, role: markers, filename: assets/KR6v0326_002.markers.yaml, hash: 'sha256:a66de8e22863f99554fa1f85628d9e736227ea28a6b1e439663c4b7c07597f10'}
+  - {seq: 3, role: markers, filename: assets/KR6v0326_003.markers.yaml, hash: 'sha256:4f72f029def3cca8adddcb9abd055f8076ebae280c2babe11d1ab59efbb8b764'}
+table_of_contents:
+- ref:
+    seq: 2
+    marker_id: KR6v0326_B_1a-juan-start
+    span:
+    - body
+    - 0
+    - 5349
+  label: 瑜伽師地論戒品纂釋卷首
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0326_B_1a-mulu-1
+    span:
+    - body
+    - 7
+    - 7
+  label: 緒言
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0326_B_1b-juan-start
+    span:
+    - body
+    - 0
+    - 33739
+  label: 瑜伽師地論本地分中菩薩地初持瑜伽處戒品纂釋卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0326_B_1b-mulu-1
+    span:
+    - body
+    - 7
+    - 7
+  label: 一、釋嗢柁南所攝
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0326_B_1b-mulu-2
+    span:
+    - body
+    - 528
+    - 528
+  label: 二、釋嗢柁南中事義
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0326_B_1b-mulu-3
+    span:
+    - body
+    - 528
+    - 528
+  label: 一、略詮自性戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0326_B_1b-mulu-4
+    span:
+    - body
+    - 2839
+    - 2839
+  label: 二、廣釋一切戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0326_B_002-juan-start
+    span:
+    - body
+    - 0
+    - 50096
+  label: 瑜伽師地論本地分中菩薩地初持瑜伽處戒品纂釋卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0326_B_002-mulu-1
+    span:
+    - body
+    - 41774
+    - 41774
+  label: 三、分釋一切戒中所分出戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0326_B_002-mulu-2
+    span:
+    - body
+    - 48474
+    - 48474
+  label: 四、釋戒勝利
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0326_B_002-mulu-3
+    span:
+    - body
+    - 49295
+    - 49295
+  label: 五、釋戒所攝
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0326_B_002-mulu-4
+    span:
+    - body
+    - 49389
+    - 49389
+  label: 六、釋戒所作
+  type: mulu
+  level: 1
+hash: sha256:afaa49971041ff1c97b9cebcfdd6f8cdea1412d8d8b5c5671934d6d53b722fb3
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
