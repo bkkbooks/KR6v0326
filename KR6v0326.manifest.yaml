@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0326/v1
 canonical_location: https://kanripo.org/bkk/KR6v0326/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 瑜伽師地論戒品纂釋
   source:
@@ -19,13 +19,13 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6v0326_000.yaml, hash: 'sha256:5da0218e380eb1f76fd5a2afcb4837da66071da4284d4cbcbdd58b5245b25394'}
-  - {seq: 2, filename: KR6v0326_002.yaml, hash: 'sha256:0caea5f3773c74acc41fa0f7c3dcf80a0c50b501223d28f333d74697c65a355e'}
-  - {seq: 3, filename: KR6v0326_003.yaml, hash: 'sha256:4a2faa86c7fcc3912dc41649895a2b9b16f9aabe677b8bd57d75b708afa8ad22'}
-  - {seq: 2, filename: KR6v0326_002.yaml, hash: 'sha256:0caea5f3773c74acc41fa0f7c3dcf80a0c50b501223d28f333d74697c65a355e'}
+  - {seq: 2, filename: KR6v0326_002.yaml, hash: 'sha256:87b6c43c67a1bf20eef788b6fe9068563a33b36885b409b10cc5130307778964'}
+  - {seq: 3, filename: KR6v0326_003.yaml, hash: 'sha256:5a92230c6b51f16d3bd9142dcbfbfed2163b0ea1de223263455465724c110b58'}
+  - {seq: 2, filename: KR6v0326_002.yaml, hash: 'sha256:87b6c43c67a1bf20eef788b6fe9068563a33b36885b409b10cc5130307778964'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6v0326_000.markers.yaml, hash: 'sha256:8418032d87ca3890dd6e0cdb777c7dab78fcf039f29537c922fabde46cb7f70a'}
-  - {seq: 2, role: markers, filename: assets/KR6v0326_002.markers.yaml, hash: 'sha256:9d466e3d000be7cd2767c76de55122d8b04203d1113a71223fedf2e049c5079d'}
-  - {seq: 3, role: markers, filename: assets/KR6v0326_003.markers.yaml, hash: 'sha256:0a1139ddbd33857688241bbf76d2d9943c60a5a94340eca6ebc6dae4e75e92a9'}
+  - {seq: 2, role: markers, filename: assets/KR6v0326_002.markers.yaml, hash: 'sha256:b74d60cadf2b73ff96b259f13959c793e6c344f0d3032f87a631d436311f570e'}
+  - {seq: 3, role: markers, filename: assets/KR6v0326_003.markers.yaml, hash: 'sha256:663e0f9f1e855c0657b56aadf732b2cc5177d8665ee377e5ba4246320f7c86ac'}
 table_of_contents:
 - ref:
     seq: 2
@@ -147,4 +147,7 @@ table_of_contents:
   label: 六、釋戒所作
   type: mulu
   level: 1
-hash: sha256:f10be8dd552f977defe66f24c6f817a60ef75f50b1a5c5a329693fa5514e4f71
+hash: sha256:3fdbff00301bef1b3750099cebdc2b27fe44f3e356d6f94bbe9dd4ba12e4954a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
